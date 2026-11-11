@@ -1,6 +1,6 @@
 # Hi, I'm Anil Umachigi
 
-**Customer Success Solutions Architect at Adobe** | MarTech, Customer Data & AI | Sydney, Australia
+**MarTech, Customer Data & AI | Sydney, Australia**
 
 I build at the intersection of customer data, marketing technology and AI, turning complex challenges into measurable business outcomes.
 
